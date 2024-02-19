@@ -1,5 +1,4 @@
 # Tanishq Dahiya
-![Logo](1676660338521.jpg)
 ---
 
 ## Contact Information
