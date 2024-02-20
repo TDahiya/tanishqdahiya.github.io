@@ -17,7 +17,7 @@
 
 ## Objective
 
-Aspiring to start my career in Data Science feild , I'm eager to embark on a challenging and dynamic journey in machine learning, data analytics, and advanced problem-solving. With a strong foundation in computer science and a passion for innovation, aiming to leverage my technical skills to contribute to cutting-edge projects in Machine Learning. Excited to dedicate myself fully to this role and advance my career in the world of AI and data science while actively contributing to any organization’s growth.
+Aspiring to start my career in Data Science field , I'm eager to embark on a challenging and dynamic journey in machine learning, data analytics, and advanced problem-solving. With a strong foundation in computer science and a passion for innovation, aiming to leverage my technical skills to contribute to cutting-edge projects in Machine Learning. Excited to dedicate myself fully to this role and advance my career in the world of AI and data science while actively contributing to any organization’s growth.
 
 ## Education
 
